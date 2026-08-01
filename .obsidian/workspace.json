@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "a9f1f8869346320e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7632a8028660669a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5f414d4c5d4efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/processed/how to trick your brain into becoming so disciplined your friends will be shocked by your success.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "how to trick your brain into becoming so disciplined your friends will be shocked by your success"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a44109f284a51a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2f83c065a37018a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e1c0412f3a3de12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9fcbf8750e3102c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b03e46e92dd50c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29eb98fe41085d9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "723a3c97da9efb74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0a332f244506f00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/processed/how to trick your brain into becoming so disciplined your friends will be shocked by your success.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e8357915a187d86e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AGENTS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AGENTS"
+            }
+          },
+          {
+            "id": "1743af4cd351c776",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e04da5d71157735",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4de4d6855c5cc7d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/processed/how to trick your brain into becoming so disciplined your friends will be shocked by your success.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1e5f414d4c5d4efe",
+  "lastOpenFiles": [
+    "raw/processed/How Simplifying Everything Makes You Rich.md",
+    "raw/processed/alexsmedilehormozi-skills Skill library for building Hormozi-inspired offer systems. Build offers people can’t say no to!.md",
+    "raw/processed/Git and Github Tutorial For Beginners (Full Course).md",
+    "raw/processed/Build Your Own Self Improving AI Wiki in 11 Minutes (Free Skill).md",
+    "AGENTS.md",
+    "raw/processed/how to trick your brain into becoming so disciplined your friends will be shocked by your success.md",
+    "raw/processed/llm-wiki.md",
+    "index.md",
+    "raw/alexsmedilehormozi-skills Skill library for building Hormozi-inspired offer systems. Build offers people can’t say no to!.md",
+    "journal/index.md",
+    "crm/index.md",
+    "crm",
+    "journal",
+    "raw/how to trick your brain into becoming so disciplined your friends will be shocked by your success.md",
+    "raw/processed",
+    "log.md",
+    "raw/How Simplifying Everything Makes You Rich.md",
+    "wiki/Self-Improving AI Wiki.md",
+    "wiki/Git and GitHub Fundamentals.md",
+    "wiki/Simplicity in Business.md",
+    "raw/Git and Github Tutorial For Beginners (Full Course).md",
+    "raw/Build Your Own Self Improving AI Wiki in 11 Minutes (Free Skill).md",
+    "wiki/index.md",
+    "Overview.md",
+    "wiki/log.md",
+    "wiki/Hormozi Skills.md",
+    "wiki/Discipline by Design.md",
+    "wiki/LLM Wiki.md",
+    "raw/llm-wiki.md",
+    "raw/assests",
+    "wiki",
+    "raw"
+  ]
+}
